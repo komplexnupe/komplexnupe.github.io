@@ -1,24 +1,44 @@
 import React from 'react';
-import logo from './logo.svg';
+import Bar from './components/Navbar';
+import TeamProjects from './components/TeamProjects';
+import MiniProjects from './components/MiniProjects';
+import miniprojects from './miniprojects.json';
+import Navbar from 'react-bootstrap/Navbar'
+
 import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="App bg">
+      <Bar />
+      <div className="container">
+        <div className="row ml-5 mb-3">
+          {miniprojects.map(projects => {
+            return (
+              <MiniProjects
+                key={projects.id}
+                image={projects.image}
+                title={projects.title}
+                url={projects.url}
+                technology={projects.technology}
+              />
+            )
+          })}
+        </div>
+      </div>
+          <TeamProjects />
+    <Navbar id="nav" fixed="bottom" bg="">
+    <Navbar.Brand href="#home">
+      <img
+        src=""
+        width="30"
+        height="30"
+        className="d-inline-block align-top"
+        alt="React Bootstrap logo"
+      />
+    </Navbar.Brand>
+  </Navbar>
     </div>
   );
 }

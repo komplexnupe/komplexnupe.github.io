@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "Burger Time",
+        "image": "../../images/burgertime.png",
+        "url": "https://leonardlove-burger-time.herokuapp.com/",
+        "technology": "Express.js, Handlebars.js, Heroku, MySQL, Node.js"
+    },
+    {
+        "id": 2,
+        "title": "Employee Directory",
+        "image": "https://drive.google.com/file/d/1QrTXSU-Ufj2Hv02YWwhVg3PIe_5PIjTW/view?usp=sharing",
+        "url": "https://komplexnupe.github.io/ll-employee-directory/",
+        "technology": "React.js, JSX, Bootstrap, Node.js"
+    },
+    {
+        "id": 3,
+        "title": "Weather Dashboard",
+        "image": "https://drive.google.com/file/d/1_tKuWLJ1mltq58rYWsELiUfFwLLXWqR6/view?usp=sharing",
+        "url": "https://komplexnupe.github.io/5-day-weather-dashboard/",
+        "technology": "jQuery, Bootstrap, CSS, HTML5, Local Storage"
+    },
+    {
+        "id": 4,
+        "title": "Fitness Tracker",
+        "image": "https://drive.google.com/file/d/19RuRZBlh2yloIau36sxcYOMx_lJHXrnh/view?usp=sharing",
+        "url": "https://fitness-workout-tracker-22.herokuapp.com/",
+        "technology": "Mongo, JavaScript, CSS, HTML5"
+    },
+    {
+        "id": 5,
+        "title": "Employee Dashboard",
+        "image": "https://drive.google.com/file/d/1ANMHW5_qD60paCaF365TN41FPGZMLWA4/view?usp=sharing",
+        "url": "https://github.com/komplexnupe/employee-tracker",
+        "technology": "Node.js, MySQL"
+    },
+    {
+        "id": 6,
+        "title": "Note Taker",
+        "image": "https://drive.google.com/file/d/16lSPaLumHFt97yHo--lgfqUdgTwIgHQU/view?usp=sharing",
+        "url": "https://leonardlove-note-taker.herokuapp.com/",
+        "technology": "Node.js, Express.js, Heroku"
+    }
+]
