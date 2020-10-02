@@ -13,32 +13,20 @@ const TeamProjects = () => {
       alt="First slide"
     />
     <Carousel.Caption>
-      <h3>First slide label</h3>
-      <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+      <h3>fitLink</h3>
+      <p>Not sure how to stay socially fit? fitLink lets you see where all of the outdoor LinkUps are during the pandemic!</p>
     </Carousel.Caption>
   </Carousel.Item>
+  
   <Carousel.Item>
     <img
       className="d-block w-100"
       src={require('../../images/CockTellMe.gif')}
       alt="Second slide"
     />
-
     <Carousel.Caption>
-      <h3>Second slide label</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-    </Carousel.Caption>
-  </Carousel.Item>
-  <Carousel.Item>
-    <img
-      className="d-block w-100"
-      src="holder.js/800x400?text=Third slide&bg=20232a"
-      alt="Third slide"
-    />
-
-    <Carousel.Caption>
-      <h3>Third slide label</h3>
-      <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+      <h3>CockTellMe</h3>
+      <p>Stuck ordering the same drinks or don't know what cocktails to try? Take our personality test and get paired with a delicious cocktail!</p>
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
