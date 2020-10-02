@@ -12,7 +12,7 @@
 }
 
 #nav {
-  background-color: black;
+  background-color: lightslategray;
   text-align: center;
-  color: white;
+  opacity: 90%;
 }
