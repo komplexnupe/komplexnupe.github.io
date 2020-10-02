@@ -28,15 +28,9 @@ function App() {
         </div>
       </div>
           <TeamProjects />
-    <Navbar id="nav" fixed="bottom" bg="">
+    <Navbar id="nav" className="mt-3" sticky="bottom" bg="">
     <Navbar.Brand href="#home">
-      <img
-        src=""
-        width="30"
-        height="30"
-        className="d-inline-block align-top"
-        alt="React Bootstrap logo"
-      />
+          Leonard Love
     </Navbar.Brand>
   </Navbar>
     </div>
