@@ -4,6 +4,7 @@ import './style.css';
 
 const TeamProjects = () => {
     return(
+      <div className="container">
       <Carousel>
   <Carousel.Item>
     <img
@@ -41,6 +42,7 @@ const TeamProjects = () => {
     </Carousel.Caption>
   </Carousel.Item>
 </Carousel>
+</div>
     );
 }
 
