@@ -10,7 +10,7 @@ const TeamProjects = () => {
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src={require('../../images/fitLinkWelcome.png')}
+      src={require('../../images/fitLink-demo.gif')}
       alt="First slide"
     />
   </Carousel.Item>

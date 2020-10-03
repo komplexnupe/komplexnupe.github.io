@@ -29,7 +29,7 @@ const Bar = () => {
                 <NavDropdown title="App Projects" id="nav-dropdown">
         <NavDropdown.Item href="https://komplexnupe.github.io/cocktellme/"
         target="_blank" rel="noopener noreferrer">CockTellMe</NavDropdown.Item>
-        <NavDropdown.Item href="https://github.com/komplexnupe/fitLink-LL"
+        <NavDropdown.Item href="https://fitlink22.herokuapp.com/"
         target="_blank" rel="noopener noreferrer">fitLink</NavDropdown.Item>
 
       </NavDropdown>
