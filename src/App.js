@@ -14,7 +14,7 @@ function App() {
     <div className="App bg">
       <Bar />
       <About />
-      <div className="container">
+      <div className="container container-sm">
         <div className="row ml-5 mb-3">
           {miniprojects.map(projects => {
             return (

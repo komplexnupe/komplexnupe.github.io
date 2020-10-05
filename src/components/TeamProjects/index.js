@@ -4,12 +4,12 @@ import './style.css';
 
 const TeamProjects = () => {
     return(
-      <div className="container">
+      <div className="container-sm container-md container-xl">
       <h2>App Projects Preview</h2>
       <Carousel>
   <Carousel.Item>
     <img
-      className="d-block w-100"
+      className="d-block"
       src={require('../../images/fitLink-demo.gif')}
       alt="First slide"
     />
@@ -17,7 +17,7 @@ const TeamProjects = () => {
 
   <Carousel.Item>
     <img
-      className="d-block w-100"
+      className="d-block"
       src={require('../../images/CockTellMe.gif')}
       alt="Second slide"
     />

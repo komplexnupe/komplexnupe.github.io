@@ -4,6 +4,7 @@ import Button from 'react-bootstrap/Button';
 import Image from 'react-bootstrap/Image';
 import Col from 'react-bootstrap/Col'
 import { Row } from 'react-bootstrap';
+import Container from 'react-bootstrap/Container';
 
 const About = () => {
     const [show, setShow] = useState(false);
@@ -16,12 +17,12 @@ const About = () => {
     const handleShow = () => setShow(true);
 
     return (
-        <>
             <Modal
                 show={show}
                 onHide={handleClose}
                 backdrop="static"
                 keyboard={false}
+                fluid="sm"
             >
                 <Modal.Header closeButton>
                     <Modal.Title>About Me</Modal.Title>
@@ -48,7 +49,6 @@ const About = () => {
             </Button>
                 </Modal.Footer>
             </Modal>
-        </>
     );
 }
 

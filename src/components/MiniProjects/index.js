@@ -5,7 +5,7 @@ import './style.css';
 
 const MiniProjects = (props) => {
     return (
-        <Card className="col-3 card ml-5 mb-3" style={{ width: '18rem' }}>
+        <Card className="col-md-3 col-xs-2 card ml-5 mb-3" style={{ width: '18rem' }}>
             <Card.Img className="m-auto" variant="top" src={props.image} />
             <Card.Body className="d-flex flex-column">
                 <Card.Title>{props.title}</Card.Title>
