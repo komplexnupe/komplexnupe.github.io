@@ -3,7 +3,8 @@ import Bar from './components/Navbar';
 import TeamProjects from './components/TeamProjects';
 import MiniProjects from './components/MiniProjects';
 import miniprojects from './miniprojects.json';
-import Navbar from 'react-bootstrap/Navbar'
+import Navbar from 'react-bootstrap/Navbar';
+import About from './components/About';
 
 import './App.css';
 
@@ -12,6 +13,7 @@ function App() {
   return (
     <div className="App bg">
       <Bar />
+      <About />
       <div className="container">
         <div className="row ml-5 mb-3">
           {miniprojects.map(projects => {

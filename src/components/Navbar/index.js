@@ -26,6 +26,11 @@ const Bar = () => {
                             className="fa fa-github" style={{fontSize: 24}}></i>
                     </a>
                 </li>
+                <li className="nav-item">
+                    <a className="text-white nav-link" href="https://drive.google.com/file/d/1BPanj7Ujy8ywv0nd8tDA8yvqtW-l9bqM/view?usp=sharing" target="_blank" rel="noopener noreferrer"><i
+                            className="fa fa-address-card" style={{fontSize: 24}}></i>
+                    </a>
+                </li>
                 <NavDropdown title="App Projects" id="nav-dropdown">
         <NavDropdown.Item href="https://komplexnupe.github.io/cocktellme/"
         target="_blank" rel="noopener noreferrer">CockTellMe</NavDropdown.Item>
