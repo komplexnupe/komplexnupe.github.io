@@ -1,28 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5a21d70.chunk.css",
-    "main.js": "/static/js/main.74314782.chunk.js",
-    "main.js.map": "/static/js/main.74314782.chunk.js.map",
+    "main.css": "/static/css/main.445be0b4.chunk.css",
+    "main.js": "/static/js/main.ddc7ba59.chunk.js",
+    "main.js.map": "/static/js/main.ddc7ba59.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
     "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.cb7817df.chunk.js": "/static/js/2.cb7817df.chunk.js",
-    "static/js/2.cb7817df.chunk.js.map": "/static/js/2.cb7817df.chunk.js.map",
+    "static/js/2.22bb555a.chunk.js": "/static/js/2.22bb555a.chunk.js",
+    "static/js/2.22bb555a.chunk.js.map": "/static/js/2.22bb555a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bd2443039b6f66728185f78bc0c486ce.js": "/precache-manifest.bd2443039b6f66728185f78bc0c486ce.js",
+    "precache-manifest.e1d9532a5ac36ad99fafcd3a9119acb5.js": "/precache-manifest.e1d9532a5ac36ad99fafcd3a9119acb5.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.a5a21d70.chunk.css.map": "/static/css/main.a5a21d70.chunk.css.map",
-    "static/js/2.cb7817df.chunk.js.LICENSE.txt": "/static/js/2.cb7817df.chunk.js.LICENSE.txt",
+    "static/css/main.445be0b4.chunk.css.map": "/static/css/main.445be0b4.chunk.css.map",
+    "static/js/2.22bb555a.chunk.js.LICENSE.txt": "/static/js/2.22bb555a.chunk.js.LICENSE.txt",
     "static/media/CockTellMe.gif": "/static/media/CockTellMe.996ea0ae.gif",
+    "static/media/Employee-Directory.gif": "/static/media/Employee-Directory.71b2708c.gif",
+    "static/media/Fitness-Tracker.gif": "/static/media/Fitness-Tracker.b26c16d0.gif",
     "static/media/LL-Profile.jpg": "/static/media/LL-Profile.145816d4.jpg",
-    "static/media/fitLink-demo.gif": "/static/media/fitLink-demo.d8751065.gif"
+    "static/media/burgertime.png": "/static/media/burgertime.181dd44c.png",
+    "static/media/employeeTracker.gif": "/static/media/employeeTracker.7b716461.gif",
+    "static/media/fitLink-demo.gif": "/static/media/fitLink-demo.d8751065.gif",
+    "static/media/noteTaker.gif": "/static/media/noteTaker.3c45e794.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.cb7817df.chunk.js",
-    "static/css/main.a5a21d70.chunk.css",
-    "static/js/main.74314782.chunk.js"
+    "static/js/2.22bb555a.chunk.js",
+    "static/css/main.445be0b4.chunk.css",
+    "static/js/main.ddc7ba59.chunk.js"
   ]
 }
