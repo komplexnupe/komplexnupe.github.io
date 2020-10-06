@@ -25,7 +25,7 @@
         "title": "Fitness Tracker",
         "image": "https://lh3.googleusercontent.com/6-CSY0Wri_nhZD3_kFMyzpFfTOTWW1aaNuTPRDezTDYP-TRkoKQwb1nFeHKlhucPl2iifKNGX2DcWqb1u6rcxMh5U3RA3fMxf8z3CK_yZj-HWI8qLjC87erHkVnHdGE3WKmiYlBu8SnuyBEe-bTp_InFDZHkkyhPfmXtWNEfPfVwljVOn5DecRE8_SG1Js2VGSW0721_Vk4wk528jo0kuQrGicfDG6mMmnTnCVbAZM4-OKnqtfZ2hj1wskGdgIZZBjRR0UsLnYNdYt4NfE-cm5YSBQBu0uzUCRk74KARp3pW900KAlZnpHoVmwDIB6czSn6QrUaMj1Rj9E0oDdZKyJSKTq_XGahAj3bPSHMAJUmRN2CDv9IutSaB7Su8SSou7l2aM9ptnloykTEixBNG49df2dLbqXYvo5hLSlX4NE-_JLjQbzVeUs-M2VBy2DmDXfhIqIJITO-hAZLzOEyS8T6Rwi3d9SRbWZ00obro_w7LwWUf9NuG0loebEV6O_sVFoeqeLUSGgPKO65e9dEoc5mL6TqKBmpZua9s2mBosDY6FSg9oGbOeT09t8_wwOdDUxwyr7KUqVve_MkVnH6rpkPPdR-1VilOD36YjV9bKrmRGkxZivdxZYqB0REkA-Xm82in-BNmCfmlVYLJEpLVZUA2HUwDHFUELvEuezX6bfCVORLlpr8NRSsjLs4s=w640-h316-no?authuser=1",
         "url": "https://fitness-workout-tracker-22.herokuapp.com/",
-        "technology": "Mongo, JavaScript, CSS, HTML5"
+        "technology": "Mongo, Node.js, JavaScript, CSS, HTML5"
     },
     {
         "id": 5,
