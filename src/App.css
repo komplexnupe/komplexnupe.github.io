@@ -1,13 +1,10 @@
-.App {
-  text-align: center;
-}
 
-.bg {
+.bcg {
   background-color: black;
   height: 100%;
-  background-position: center;
+  /* background-position: center;
   background-repeat: repeat;
-  background-size: cover;
+  background-size: cover; */
   /* opacity:%; */
 }
 

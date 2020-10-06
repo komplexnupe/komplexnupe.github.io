@@ -11,7 +11,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App bg">
+    <div className="bcg">
       <Bar />
       <About />
       <div className="container container-sm">
