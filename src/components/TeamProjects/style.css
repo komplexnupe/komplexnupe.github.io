@@ -5,6 +5,7 @@
 }
 
 h2{
+    text-align: center;
     color: white;
 }
 
@@ -17,3 +18,4 @@ img {
     height: auto;
     width: auto\9; /* ie8 */
 }
+  
