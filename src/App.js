@@ -10,7 +10,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="bcg">
+    <div className="bcg textCenter">
       <Bar />
       <About />
       <div className="container container-sm">
@@ -53,7 +53,7 @@ function App() {
           />
         </div>
       </div>
-      <TeamProjects />
+      <TeamProjects/>
       <Navbar id="nav" className="mt-3" sticky="bottom" bg="">
         <Navbar.Brand className="text-white" href="#home">
           “All our dreams can come true, if we have the courage to pursue them.” – Walt Disney.
