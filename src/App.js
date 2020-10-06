@@ -54,7 +54,7 @@ function App() {
         </div>
       </div>
       <TeamProjects/>
-      <Navbar id="nav" className="mt-3" sticky="bottom" bg="">
+      <Navbar className="mt-3" sticky="bottom">
         <Navbar.Brand className="text-white" href="#home">
           “All our dreams can come true, if we have the courage to pursue them.” – Walt Disney.
     </Navbar.Brand>
