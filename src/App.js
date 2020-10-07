@@ -21,24 +21,24 @@ function App() {
             url={"https://leonardlove-burger-time.herokuapp.com/"}
             technology={"Express.js, Handlebars.js, Heroku, MySQL, Node.js"}
           />
-          <MiniProjects
+          {/* <MiniProjects
             image={require('./images/Employee-Directory.gif')}
             title={"Employee Directory"}
             url={"https://komplexnupe.github.io/ll-employee-directory/"}
             technology={"React.js, JSX, Bootstrap, Node.js"}
-          />
-          <MiniProjects
+          /> */}
+          {/* <MiniProjects
             image={require('./images/burgertime.png')}
             title={"Weather Dashboard"}
             url={"https://komplexnupe.github.io/5-day-weather-dashboard/"}
             technology={"jQuery, Bootstrap, CSS, HTML5, Local Storage"}
-          />
-          <MiniProjects
+          /> */}
+          {/* <MiniProjects
             image={require('./images/Fitness-Tracker.gif')}
             title={"Fitness Tracker"}
             url={"https://fitness-workout-tracker-22.herokuapp.com/"}
             technology={"Mongo, Node.js, JavaScript, CSS, HTML5"}
-          />
+          /> */}
           <MiniProjects
             image={require('./images/employeeTracker.gif')}
             title={"Employee Dashboard"}
