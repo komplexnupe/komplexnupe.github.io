@@ -13,7 +13,7 @@ const MiniProjects = (props) => {
                 <Card.Text>
                     {props.technology}
                 </Card.Text>
-                <Button variant="outline-secondary" href={props.url} className="btn mt-auto" target="_blank" rel="noopener noreferrer">View Demo</Button>
+                <Button variant="outline-secondary" href={props.url} className="mt-auto" target="_blank" rel="noopener noreferrer">View Demo</Button>
             </Card.Body>
         </Card>
         </>
