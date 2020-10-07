@@ -14,6 +14,7 @@ function App() {
       <Bar />
       <About />
       <div className="container container-sm">
+        <h2>Mini Projects</h2>
         <div className="row ml-5 mb-3">
           <MiniProjects
             image={require('./images/burgertime.png')}
@@ -33,24 +34,24 @@ function App() {
             url={"https://komplexnupe.github.io/5-day-weather-dashboard/"}
             technology={"jQuery, Bootstrap, CSS, HTML5, Local Storage"}
           /> */}
-          {/* <MiniProjects
+          <MiniProjects
             image={require('./images/Fitness-Tracker.gif')}
             title={"Fitness Tracker"}
             url={"https://fitness-workout-tracker-22.herokuapp.com/"}
             technology={"Mongo, Node.js, JavaScript, CSS, HTML5"}
-          /> */}
+          />
           <MiniProjects
             image={require('./images/employeeTracker.gif')}
             title={"Employee Dashboard"}
             url={"https://github.com/komplexnupe/employee-tracker"}
             technology={"Node.js, MySQL"}
           />
-          <MiniProjects
+          {/* <MiniProjects
             image={require('./images/noteTaker.gif')}
             title={"Note Taker"}
             url={"https://leonardlove-note-taker.herokuapp.com/"}
-            technology={"Express.js, Handlebars.js, Heroku, MySQL, Node.js"}
-          />
+            technology={"JavaScript, Node.js"}
+          /> */}
         </div>
       </div>
       <TeamProjects/>
