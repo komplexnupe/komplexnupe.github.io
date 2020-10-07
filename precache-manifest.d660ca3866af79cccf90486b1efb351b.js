@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "947971e2f12af852280791dfb2e3caa9",
+    "revision": "f778015d0a8e5f9ec21f89d60054dd53",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "6e807061c1aea06711aa",
+    "revision": "a2bae7c484e12014dd1d",
     "url": "/static/css/main.24e9e88c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.d1c483a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e807061c1aea06711aa",
-    "url": "/static/js/main.144b4383.chunk.js"
+    "revision": "a2bae7c484e12014dd1d",
+    "url": "/static/js/main.c16f29e6.chunk.js"
   },
   {
     "revision": "4f2b1704eab49d50853b",
@@ -30,6 +30,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "996ea0aeac6a9f5bd15636dc18aa8d10",
     "url": "/static/media/CockTellMe.996ea0ae.gif"
+  },
+  {
+    "revision": "b26c16d052988c106a12a170e43c9ab0",
+    "url": "/static/media/Fitness-Tracker.b26c16d0.gif"
   },
   {
     "revision": "145816d482db72f3770917a5f5fcbe12",
@@ -46,9 +50,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "d875106560c650845f8b3e839209c9ec",
     "url": "/static/media/fitLink-demo.d8751065.gif"
-  },
-  {
-    "revision": "3c45e794115891c51b7d69ae1a926413",
-    "url": "/static/media/noteTaker.3c45e794.gif"
   }
 ]);
