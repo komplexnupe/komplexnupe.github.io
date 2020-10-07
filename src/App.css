@@ -1,11 +1,8 @@
 
 .bcg {
-  background-color: black;
-  height: 100%;
-  /* background-position: center;
-  background-repeat: repeat;
-  background-size: cover; */
-  /* opacity:%; */
+    background: url("../src/images/Black-website-background-black.jpg");
+    background-repeat: no-repeat;
+    background-size: auto; 
 }
 
 #nav {
