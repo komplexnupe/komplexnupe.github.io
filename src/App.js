@@ -38,7 +38,7 @@ function App() {
             image={require('./images/Fitness-Tracker.gif')}
             title={"Fitness Tracker"}
             url={"https://fitness-workout-tracker-22.herokuapp.com/"}
-            technology={"Mongo, Node.js, JavaScript, CSS, HTML5"}
+            technology={"Mongo, Node.js, JavaScript, Heroku"}
           />
           <MiniProjects
             image={require('./images/employeeTracker.gif')}
