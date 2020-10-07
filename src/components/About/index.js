@@ -46,7 +46,7 @@ const About = () => {
                         to having an entire stadium cheering for you. Simply put, I love to code.</Col></Row>
                 </Modal.Body>
                 <Modal.Footer>
-                    <Button variant="secondary" onClick={handleClose}>
+                    <Button variant="outline-secondary" onClick={handleClose}>
                         Close
             </Button>
                 </Modal.Footer>
