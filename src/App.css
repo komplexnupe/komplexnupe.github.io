@@ -2,7 +2,7 @@
 .bcg {
     background: url("../src/images/Black-website-background-black.jpg");
     background-repeat: no-repeat;
-    background-size: auto; 
+    background-size: 100%; 
 }
 
 #nav {

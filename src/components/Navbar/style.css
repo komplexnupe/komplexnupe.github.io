@@ -1,5 +1,7 @@
 nav {
-    background-color: lightslategray;
+    display: flex;
+    flex-direction: column;
+    background-color: transparent;
     text-align: center;
     color: white;
 }

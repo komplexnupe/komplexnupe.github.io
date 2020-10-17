@@ -5,7 +5,8 @@ import './style.css';
 const Bar = () => {
     return(
       <nav className="navbar navbar-expand-lg mb-3">
-        <a className="text-white navbar-brand ml-4" href="/">Leonard Love</a>
+        <a className="text-white navbar-brand ml-4" href="/"><i className="fa fa-home" aria-hidden="true"></i>
+</a>
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
             aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
