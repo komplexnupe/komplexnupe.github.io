@@ -1,32 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.46842e19.chunk.css",
-    "main.js": "/static/js/main.c6158b7f.chunk.js",
-    "main.js.map": "/static/js/main.c6158b7f.chunk.js.map",
+    "main.css": "/static/css/main.0bec6e56.chunk.css",
+    "main.js": "/static/js/main.19878917.chunk.js",
+    "main.js.map": "/static/js/main.19878917.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
     "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.9ab724ef.chunk.js": "/static/js/2.9ab724ef.chunk.js",
-    "static/js/2.9ab724ef.chunk.js.map": "/static/js/2.9ab724ef.chunk.js.map",
+    "static/css/2.d2cdd3c6.chunk.css": "/static/css/2.d2cdd3c6.chunk.css",
+    "static/js/2.1e74a2fc.chunk.js": "/static/js/2.1e74a2fc.chunk.js",
+    "static/js/2.1e74a2fc.chunk.js.map": "/static/js/2.1e74a2fc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.d3f97734d655ca60d59e82cfe9862fb1.js": "/precache-manifest.d3f97734d655ca60d59e82cfe9862fb1.js",
+    "precache-manifest.3d1be293af09790ef673ef95183029cc.js": "/precache-manifest.3d1be293af09790ef673ef95183029cc.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.46842e19.chunk.css.map": "/static/css/main.46842e19.chunk.css.map",
-    "static/js/2.9ab724ef.chunk.js.LICENSE.txt": "/static/js/2.9ab724ef.chunk.js.LICENSE.txt",
+    "static/css/2.d2cdd3c6.chunk.css.map": "/static/css/2.d2cdd3c6.chunk.css.map",
+    "static/css/main.0bec6e56.chunk.css.map": "/static/css/main.0bec6e56.chunk.css.map",
+    "static/js/2.1e74a2fc.chunk.js.LICENSE.txt": "/static/js/2.1e74a2fc.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/Black-website-background-black.fc263a4b.jpg",
-    "static/media/CockTellMe.gif": "/static/media/CockTellMe.996ea0ae.gif",
-    "static/media/Fitness-Tracker.gif": "/static/media/Fitness-Tracker.b26c16d0.gif",
-    "static/media/LL-Profile.jpg": "/static/media/LL-Profile.145816d4.jpg",
-    "static/media/burgertime.png": "/static/media/burgertime.181dd44c.png",
-    "static/media/employeeTracker.gif": "/static/media/employeeTracker.7b716461.gif",
-    "static/media/fitLink-demo.gif": "/static/media/fitLink-demo.d8751065.gif"
+    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/bloc.jpg": "/static/media/bloc.1247b927.jpg",
+    "static/media/cocktellme.png": "/static/media/cocktellme.476d66f5.png",
+    "static/media/all.min.css": "/static/media/fa-solid-900.8e1ed89b.woff2",
+    "static/media/fitlink.png": "/static/media/fitlink.51c9b634.png",
+    "static/media/saint-george.png": "/static/media/saint-george.06fe3440.png"
   },
   "entrypoints": [
     "static/js/runtime-main.19ccc7f6.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.9ab724ef.chunk.js",
-    "static/css/main.46842e19.chunk.css",
-    "static/js/main.c6158b7f.chunk.js"
+    "static/css/2.d2cdd3c6.chunk.css",
+    "static/js/2.1e74a2fc.chunk.js",
+    "static/css/main.0bec6e56.chunk.css",
+    "static/js/main.19878917.chunk.js"
   ]
 }
