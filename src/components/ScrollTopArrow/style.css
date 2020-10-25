@@ -1,0 +1,28 @@
+.scrollTop {
+    position: fixed; 
+    width: 100%;
+    bottom: 80px;
+    margin-left: 675px;
+    /* align-items: flex-end; */
+    height: 20px;
+    /* justify-content: flex-end; */
+    z-index: 1000;
+    cursor: pointer;
+    animation: fadeIn 0.3s;
+    transition: opacity 0.4s;
+    opacity: 0.5;
+    color: #dc7928;
+  }
+  
+  .scrollTop:hover{
+    opacity: 1;
+  }
+  
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0.5;
+    }
+  }

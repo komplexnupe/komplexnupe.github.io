@@ -1,0 +1,36 @@
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) { 
+    .hero {
+    display: flex;
+    justify-content: center;
+    margin-top: 200px ;
+}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .hero {
+        display: flex;
+        justify-content: center;
+        margin-top: 200px ;
+    }
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+    .hero {
+        display: flex;
+        justify-content: center;
+        margin-top: 200px ;
+    }
+}
+
+.hi {
+    color: white;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}

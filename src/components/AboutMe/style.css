@@ -1,0 +1,27 @@
+.header {
+padding: 1rem;;
+/* border: 2px solid #fff; */
+color: #fff;
+width: max-content;
+text-align: center;
+}
+
+.accent {
+    color: #dc7928
+}
+
+.bcg {
+    background-color: rgba(255, 255, 255, 0.3);
+    width: 80%;
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+    .phil {
+      margin-top: 95px;
+     
+    }
+    .skill {
+        margin-top: 15px
+    }
+  }
